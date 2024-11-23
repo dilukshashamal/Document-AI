@@ -1,0 +1,8 @@
+Flask
+google-cloud-documentai
+google-cloud-storage
+Pillow
+Flask-WTF
+gunicorn
+Werkzeug
+python-dotenv
